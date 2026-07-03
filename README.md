@@ -2,7 +2,6 @@
 
 ### End-to-End Embedded Remote Patient Monitoring (RPM) Platform
 
-**Hospital-grade vitals monitoring, powered by a sub-$5 microcontroller.**
 
 MediPulse continuously tracks a patient's **heart rate**, **blood oxygen saturation (SpO2)**, and **activity/fall status**, streaming that data in real time to a cloud-connected clinical dashboard — delivering a fraction of the cost of commercial patient monitors, without sacrificing reliability.
 
